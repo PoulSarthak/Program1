@@ -1,0 +1,5 @@
+E:\BridgeLabs Practice problems\day 11-12 problems\Stockmanagementproblem\Stockmanagementproblem\obj\Debug\net5.0\Stockmanagementproblem.csproj.AssemblyReference.cache
+E:\BridgeLabs Practice problems\day 11-12 problems\Stockmanagementproblem\Stockmanagementproblem\obj\Debug\net5.0\Stockmanagementproblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabs Practice problems\day 11-12 problems\Stockmanagementproblem\Stockmanagementproblem\obj\Debug\net5.0\Stockmanagementproblem.AssemblyInfoInputs.cache
+E:\BridgeLabs Practice problems\day 11-12 problems\Stockmanagementproblem\Stockmanagementproblem\obj\Debug\net5.0\Stockmanagementproblem.AssemblyInfo.cs
+E:\BridgeLabs Practice problems\day 11-12 problems\Stockmanagementproblem\Stockmanagementproblem\obj\Debug\net5.0\Stockmanagementproblem.csproj.CoreCompileInputs.cache
